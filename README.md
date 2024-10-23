@@ -46,11 +46,11 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![Screenshot (71)](https://github.com/user-attachments/assets/1deabd6f-a3c1-4338-8ef0-fe2d1bfc2c24)
 
 
- 
-iii)	Creating the Symbol for schematic Cell view
+
+ iii)	Creating the Symbol for schematic Cell view
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
 	The cell view from cell view window appears
@@ -63,7 +63,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+![Screenshot (74)](https://github.com/user-attachments/assets/81de6c34-ad56-4010-967b-cc46d3cde1b2)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +74,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![Screenshot (76)](https://github.com/user-attachments/assets/2cacbd75-24d0-4468-baa8-07a00a7a9215)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
